@@ -15,7 +15,7 @@ Our environment is buzzword compliant
 ### About You:
 You not only can do this, you want to (~30 minutes or less):
 
-* Download and install [Docker](https://www.docker.com/community-edition#/download)
+* Download and install [Docker](https://docs.docker.com/install/)
 * Clone the [jobreq/req](https://github.com/jobreq/req) git repo
 * cd into the `req` directory and `docker-compose up`
 * Fix the three problems with the configurations (Dockerfiles are OK)
